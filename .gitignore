@@ -1,0 +1,15 @@
+/model
+__pycache__
+constant.py
+.ipynb_checkpoints/
+*.mp4
+.idea
+*.ipynb
+*.jpg
+*.joblib
+.vscode
+test.py
+*.zip
+*copy*
+weights
+face_imgs/*
