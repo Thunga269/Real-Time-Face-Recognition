@@ -8,7 +8,7 @@ git pull origin dev
 
 ## Download models
 
-- Chạy file sau để tải models:
+Download models:
 
 ```bash
 chmod 777 scripts/download_weights.sh
